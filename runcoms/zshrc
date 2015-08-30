@@ -12,5 +12,5 @@ fi
 
 # Customize to your needs...
 
-export VISUAL="emacsclient"
+export VISUAL="emacsclient -c"
 
